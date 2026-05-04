@@ -1,0 +1,6 @@
+{
+  "name": "agent-hana-convertidor-de-monedas-con-tas-morly9bu",
+  "version": "1.0.0",
+  "description": "Proyecto de Hana [Gen10]: convertidor de monedas con tasas en tiempo real",
+  "main": "index.js"
+}
